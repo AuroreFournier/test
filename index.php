@@ -3,4 +3,4 @@
 // logiciel de versionning
 
 
-deezfzfqfzqfze
+echo 'deezfzfqfzqfze';
